@@ -1,6 +1,5 @@
 
 
-// Load environment variables from .env
 dotenv.config();
 
 const app = express();
